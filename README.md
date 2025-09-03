@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/rodrigolessa?theme=dark&font=Revalia)
+
 <!--
 **rodrigolessa/rodrigolessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

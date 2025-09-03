@@ -14,6 +14,13 @@ I worked in the **financial sector (payments & credit)**, I design and develop *
 - **Architectures:** Microservices, RESTful APIs, Asynchronous Messaging, CQRS
 - **Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD with Azure DevOps
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+</p>
+
 ---
 
 ## 📈 What I Do

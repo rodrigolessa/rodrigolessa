@@ -30,6 +30,8 @@ I worked in the **financial sector (payments & credit)**, I design and develop *
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" />
 </p>
 
+- **Full list:** C# | .NET | ASP.NET Core | REST APIs | SOLID | DDD | TDD | BDD | Docker | Microservices | CQRS | Event-based | Event Sourcing | Service-Oriented Architecture | WSDL | RabbitMQ | Postman | Javascript | Development | Agile | Scrum Master | Algorithms | Git | GitHub | Multi-Threading/Concurrency | Unit Tests | xUnit | nUnit | SQL | SQL Server | ReqnRoll | DataDog | Grafana - Loki | Azure Cloud | Azure Service Bus | Redis | PostgreSQL | Azure DevOps pipelines
+
 ---
 
 ## 📈 What I Do
